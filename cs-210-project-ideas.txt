@@ -8,7 +8,7 @@ our CS 210 projects should be moderately complex and have the following characte
 + Include at least 2-3 major features or functions that will be useful to the target user audience.
 + Include at least 3-5 distinct kinds of objects that we can model as classes.
 + Include a data persistence feature that will save application data out to file, and load from a file when launched.
-+ Include a user interface (graphical encouraged, but text-based is acceptable) for user interaction.
++ Include a graphical user interface.
 
 Please update the items below in this file and then push the updated file back to GitHub!
 
@@ -25,22 +25,17 @@ Email address:
 
 
 
----------------------------------------------------------------------------------------------------------------------------
-
-2) Do you believe your project better lends itself to a graphical user-interface or a text-based user interface?
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-3) To successfully plan, design, and construct this project, you will need to work with a team of 2-3 other students.
+2) To successfully plan, design, and construct this project, you will need to work with a team of 2-3 other students.
    Do you have any specific group member preferences or requests that you'd like to share?
    
    
    
 ---------------------------------------------------------------------------------------------------------------------------
 
-4) It will be important for your group to meet at least one hour per week outside of class to coordinate activites.
+3) The group project may require connecting with group members outside of normal class time.
    What is your availability for meeting with your group?  What days and times of day could you be available for meeting?
    
    
