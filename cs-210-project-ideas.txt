@@ -16,28 +16,20 @@ Please update the items below in this file and then push the updated file back t
 
 Name: 
 
-Email address:  
-
 ---------------------------------------------------------------------------------------------------------------------------
 
 1) Please think about a project idea that you would like to propose to your project team.  In a few sentences, please
-   describe your overall project idea.  What are the key features of the program, and who is the target user audience?
+   describe your overall project idea.
 
 
 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-2) To successfully plan, design, and construct this project, you will need to work with a team of 2-3 other students.
-   Do you have any specific group member preferences or requests that you'd like to share?
+2) Who is the target user audience for this program?  What about this program would be valuable to them?
    
    
    
 ---------------------------------------------------------------------------------------------------------------------------
 
-3) The group project may require connecting with group members outside of normal class time.
-   What is your availability for meeting with your group?  What days and times of day could you be available for meeting?
-   
-   
-   
----------------------------------------------------------------------------------------------------------------------------
+3) What would be the key features for this application that you would need to develop?
